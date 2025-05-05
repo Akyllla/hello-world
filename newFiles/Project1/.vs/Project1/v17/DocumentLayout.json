@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\\u0423\u041F2\\2\\Project1\\",
+  "WorkspaceRootPath": "H:\\\u0423\u041F2\\git\\treiningrepoz\\newFiles\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC440EEE-8AA5-4915-833F-754CA2342F89}|Project1\\Project1.vcxproj|H:\\\u0423\u041F2\\2\\Project1\\Project1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FC440EEE-8AA5-4915-833F-754CA2342F89}|Project1\\Project1.vcxproj|H:\\\u0423\u041F2\\git\\treiningrepoz\\newFiles\\Project1\\Project1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FC440EEE-8AA5-4915-833F-754CA2342F89}|Project1\\Project1.vcxproj|solutionrelative:Project1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FileName.cpp",
-              "DocumentMoniker": "H:\\\u0423\u041F2\\2\\Project1\\Project1\\FileName.cpp",
+              "DocumentMoniker": "H:\\\u0423\u041F2\\git\\treiningrepoz\\newFiles\\Project1\\Project1\\FileName.cpp",
               "RelativeDocumentMoniker": "Project1\\FileName.cpp",
-              "ToolTip": "H:\\\u0423\u041F2\\2\\Project1\\Project1\\FileName.cpp",
+              "ToolTip": "H:\\\u0423\u041F2\\git\\treiningrepoz\\newFiles\\Project1\\Project1\\FileName.cpp",
               "RelativeToolTip": "Project1\\FileName.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-29T06:43:31.105Z",
               "EditorCaption": ""
